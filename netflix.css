@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+}
+
+.net{
+    background-color: black;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.net select{
+    padding: 0px 20px;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    border: none;
+    
+}
+
+.net button{
+    background-color: red;
+    color: whitesmoke;
+    padding: 0px 20px;
+    margin: 25px;
+    border-radius: 20px;
+    height:50px;
+    width:120px;
+    border: none;
+   
+}
+
+.net1{
+    background-image: url(./netback.jpg);
+    background-repeat:no-repeat;
+    filter: brightness(90%);
+    height: 600px;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content h1{
+    font-size: 50px;
+    font-weight: 900;
+    padding: 100px 0px 10px 0px;
+
+}
+
+.content h3, h4{
+    font-size: 20px;   
+}
+
+.content input{
+    background-color: rgba(0, 0, 0, 0.638);
+    color: whitesmoke;
+    font-weight: bolder;
+    border: none;
+    padding: 10px 60px;
+    border-radius: 15px;
+}
+
+.content button{
+    background-color: red;
+    color: whitesmoke;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 15px;
+}
+
+.net2{
+    background-color: black;
+    height: 250px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 140px 0px;
+}
+
+.left1 h1{
+    font-size: 50px;
+    font-weight: 900;
+}
